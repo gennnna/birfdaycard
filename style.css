@@ -74,10 +74,9 @@ a.backbtn{
       font-size: 100px;
       cursor: pointer;
       float: left;
-      vertical-align: middle;
 }
 a.nextbtn, a.backbtn{
-    top: 150px;
+    top: 50%;
 }
 .pages{
     height: auto;
