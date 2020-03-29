@@ -61,11 +61,9 @@ h1{
       font-size: 100px;
       margin: 4px 2px;
       cursor: pointer;
+      float: right;
 }
 .pages{
     height: auto;
     width: auto;
-}
-.next{
-    float: right;
 }
