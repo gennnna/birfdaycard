@@ -50,7 +50,7 @@ h1{
     transition: margin-left .5s;
     padding: 16px;
 }
-.nextbtn{
+a.nextbtn{
       background-color: none;
       border: none;
       color: #dee3e2;
@@ -63,7 +63,7 @@ h1{
       cursor: pointer;
       float: right;
 }
-.backbtn{
+a.backbtn{
     background-color: none;
       border: none;
       color: #dee3e2;
@@ -73,6 +73,9 @@ h1{
       font-size: 100px;
       cursor: pointer;
       float: left;
+}
+a.nextbtn, a.backbtn{
+    top: 150px;
 }
 .pages{
     height: auto;
