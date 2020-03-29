@@ -11,7 +11,8 @@ h1{
     color: #dee3e2;
 }
 img{
-    object-fit: fill;
+    width: fit-content;
+    height: fit-content;
 }
 .sidebar {
     height: 100%;
