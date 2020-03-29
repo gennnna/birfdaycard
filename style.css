@@ -73,8 +73,10 @@ a.backbtn{
     /*float:left;*/
     float: left;
 }
-
 .pages{
     height: auto;
     width: auto;
+}
+.spacer{
+    padding: 150px;
 }
