@@ -76,6 +76,17 @@ a.backbtn{
 a.nextbtn, a.backbtn{
     position: absolute;
     top: 50%;
+    background-color: none;
+    border: none;
+    color: #dee3e2;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 100px;
+    cursor: pointer;
+}
+a.nextbtn{
+    right: 0;
 }
 .pages{
     height: auto;
