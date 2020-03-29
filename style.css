@@ -50,16 +50,14 @@ h1{
     transition: margin-left .5s;
     padding: 16px;
 }
-a.nextbtn{
+/*a.nextbtn{
       background-color: none;
       border: none;
       color: #dee3e2;
       padding: 5px;
       text-align: center;
       text-decoration: none;
-      /*display: inline-block;*/
       font-size: 100px;
-      /*margin: 4px 2px;*/
       cursor: pointer;
       float: right;
       vertical-align: middle;
@@ -74,7 +72,7 @@ a.backbtn{
       font-size: 100px;
       cursor: pointer;
       float: left;
-}
+}*/
 a.nextbtn, a.backbtn{
     position: absolute;
     top: 50%;
