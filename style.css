@@ -50,32 +50,27 @@ h1{
     transition: margin-left .5s;
     padding: 16px;
 }
-a.nextbtn, a.backbtn{
-    position: absolute;
-    top: 50%;
-    color: #dee3e2;
-}
 a.nextbtn{
-      background-color: none;
-      border: none;
-      color: #dee3e2;
-      padding: 5px;
-      text-align: center;
-      text-decoration: none;
-      font-size: 100px;
-      cursor: pointer;
-      float: right;
+    background-color: none;
+    border: none;
+    color: #dee3e2;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 100px;
+    cursor: pointer;
+    float: right;
 }
 a.backbtn{
     background-color: none;
-      border: none;
-      color: #dee3e2;
-      padding: 5px;
-      text-align: center;
-      text-decoration: none;
-      font-size: 100px;
-      cursor: pointer;
-      float: left;
+    border: none;
+    color: #dee3e2;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 100px;
+    cursor: pointer;
+    float: left;
 }
 
 .pages{
