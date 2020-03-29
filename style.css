@@ -41,7 +41,7 @@ h1{
     color: #dee3e2;
     background-color: #434e52;
     font-family: 'Josefin Sans', sans-serif;
-    padding: 30px;
+    padding: 5px;
     border: none;
     outline: none;
 }
@@ -54,10 +54,10 @@ h1{
       background-color: #434e52;
       border: none;
       color: #dee3e2;
-      padding: 30px;
+      padding: 5px;
       text-align: center;
       text-decoration: none;
-      display: inline-block;
+      /*display: inline-block;*/
       font-size: 100px;
       /*margin: 4px 2px;*/
       cursor: pointer;
