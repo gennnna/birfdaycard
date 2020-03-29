@@ -76,10 +76,10 @@ a.backbtn{
       float: left;
 }
 a.nextbtn, a.backbtn{
+    position: absolute;
     top: 50%;
 }
 .pages{
     height: auto;
     width: auto;
-    float: center;
 }
