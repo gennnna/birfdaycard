@@ -50,14 +50,25 @@ h1{
     transition: margin-left .5s;
     padding: 16px;
 }
+a.firstnextbtn{
+    background-color: none;
+    border: none;
+    color: #dee3e2;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 100px;
+    cursor: pointer;
+    float: right;
+}
 a.nextbtn{
     background-color: none;
     border: none;
     color: #dee3e2;
-    padding: 10px;
+    padding: 5px;
     text-align: center;
     text-decoration: none;
-    font-size: 35px;
+    font-size: 50px;
     cursor: pointer;
     float: right;
 }
@@ -65,10 +76,10 @@ a.backbtn{
     background-color: none;
     border: none;
     color: #dee3e2;
-    padding: 10px;
+    padding: 5px;
     text-align: center;
     text-decoration: none;
-    font-size: 35px;
+    font-size: 50px;
     cursor: pointer;
     float: left;
 }
