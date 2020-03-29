@@ -38,12 +38,13 @@ img{
   
   .openbtn {
     cursor: pointer;
-    font-size: 150px;
+    font-size: 100px;
     color: #dee3e2;
     background-color: #434e52;
     font-family: 'Josefin Sans', sans-serif;
     padding: 35px;
     border: none;
+    outline: none;
   }
   
   #main {
