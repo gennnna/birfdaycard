@@ -34,3 +34,7 @@ h1{
     color: #dee3e2;
     border:none;
 }
+#main{
+    transition: margin-left .5s;
+    padding: 10px;
+}
