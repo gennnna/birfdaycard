@@ -51,7 +51,7 @@ h1{
     padding: 16px;
 }
 .nextbtn{
-      background-color: #434e52;
+      background-color: none;
       border: none;
       color: #dee3e2;
       padding: 5px;
@@ -62,6 +62,19 @@ h1{
       /*margin: 4px 2px;*/
       cursor: pointer;
       float: right;
+}
+.backbtn{
+    background-color: none;
+      border: none;
+      color: #dee3e2;
+      padding: 5px;
+      text-align: center;
+      text-decoration: none;
+      /*display: inline-block;*/
+      font-size: 100px;
+      /*margin: 4px 2px;*/
+      cursor: pointer;
+      float: left;
 }
 .pages{
     height: auto;
