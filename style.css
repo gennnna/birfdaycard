@@ -43,6 +43,7 @@ img{
     background-color: #434e52;
     font-family: 'Josefin Sans', sans-serif;
     padding: 35px;
+    border: none;
   }
   
   #main {
